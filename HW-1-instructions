@@ -1,0 +1,15 @@
+Write a program to edit the sequence of numbers given even numbers in ascending order and odd numbers leave it alone. 
+The program should first read the length of the sequence (up to 100), then each number. 
+Example: The contents of the input 
+
+7 4 3 6 4 1 2 9 
+
+means that the numbers in the sequence of 7, this being the number of the line 4, 3, 6, 1, 4, 2 and 9 
+
+The program must write the rearranged sequence, but without length: 
+
+2 3 4 1 4 6 9 
+
+So odd numbers remain in their places of even numbers are arranged in ascending order.
+The numbers should be separated by spaces, the last number is followed by a space character and 
+the character to jump on a new line.
